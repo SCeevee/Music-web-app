@@ -1,0 +1,53 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 13px;
+    margin: 0;
+    width: 100%;
+}
+
+.note{
+    font-size: 9px;
+    color:slategray
+}
+
+.speed{
+    float: left;
+}
+
+.speed_disk{
+    width: 80px;
+    height: 80px;
+}
+
+#speed_text{
+    font-size: 10px;
+    margin: 15px;
+}
+
+.volume{
+    float: right;
+}
+
+.volume_disk{
+    width: 80px;
+    height: 80px;
+}
+
+#volume_text{
+    font-size: 10px;
+    margin: 15px;
+}
+
+#play_button{
+    width: 250px;
+    font-size: 13px;
+}
+
+canvas{
+    border: 8px dotted chartreuse;
+    border-radius: 30px;
+      
+}
